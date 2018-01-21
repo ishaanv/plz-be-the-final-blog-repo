@@ -5,9 +5,8 @@ date: 2017-12-09T13:01:10+11:00
 location: "Australia"
 draft: true
 ---
-*
 
-# DIY Theme
+## DIY Theme
 
 I find blogging hard. But you have to do it, they say. You have to build an online presence otherwise no body will ever hire you. Ok fine.
 
@@ -19,6 +18,6 @@ I felt a general level of dissatisfaction with the prior versions. I think it ma
 So I ended building my own. My main inspiration on this endeavour as been the excellent https://brandur.org blog. It is really quite the work of art. so
 
 
-# Now you can do it too!
+## Now you can do it too!
 
 Sorg is MITed and so is this theme, which I'm calling ghetto sorg.

@@ -1,12 +1,12 @@
 ---
-title: "Can't blog?? It's probably the theme"
-stub: "Where I justify that my "
+title: "Can't blog? It's probably the theme"
+stub: "An article wherein I justify that my lacklustre blogging performance"
 date: 2017-12-09T13:01:10+11:00
 location: "Australia"
 draft: true
 ---
 
-## DIY Theme
+### DIY Theme
 
 I find blogging hard. But you have to do it, they say. You have to build an online presence otherwise no body will ever hire you. Ok fine.
 
@@ -15,9 +15,9 @@ After ditching several prior incarnations of my blog, I've finally set my intent
 
 I felt a general level of dissatisfaction with the prior versions. I think it mainly stemmed from my dissatisfaction the theme design. Also no [ikea effect](https://en.wikipedia.org/wiki/IKEA_effect)
 
-So I ended building my own. My main inspiration on this endeavour as been the excellent https://brandur.org blog. It is really quite the work of art. so
+So I ended building my own. My main inspiration on this endeavour as been the excellent https://brandur.org blog. It is really quite the work of art. Sorg is MITed and so is this theme, which I'm calling ghetto sorg.
 
 
-## Now you can do it too!
+### Now you can do it too!
 
-Sorg is MITed and so is this theme, which I'm calling ghetto sorg.
+ For whatever reason if you would like you use this theme, it is available [here](https://github.com/ishaanv/ghetto-sorg).

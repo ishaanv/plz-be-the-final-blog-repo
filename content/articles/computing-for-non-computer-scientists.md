@@ -5,11 +5,13 @@ draft: false
 stub: "Wherein I pontificate on what should be taught to those who don't know or care about the nitty gritty."
 ---
 
-This year (2018) I'll be teaching [CODE1161](https://notionparallax.co.uk/CODE1161/2017-01-01-1161-outline), the introductory programming course for creatives, analysts and entrepreneurs, at UNSW. My [team](https://github.com/Design-Computing) and I are left the fun yet elusive task of designing a course that provides a general introduction to the field of computing but also leaves them productive in a couple of areas. The old breath versus depth problem.
+This year (2018) I'll be teaching [CODE1161](https://notionparallax.co.uk/CODE1161/2017-01-01-1161-outline), the introductory programming course for creative professionals, analysts and entrepreneurs at UNSW. My [team](https://github.com/Design-Computing) and I are left with the fun yet elusive task of designing a course that provides a general introduction to the field of computing but also makes them productive in a couple of specific tasks. The old breadth versus depth problem, eh?
+
+![alt text](../images/overview-code1161.jpg)
 
 ### What should be taught?
 
-The most import skill I've picked up as a someone in the game (programming) professionaly for three years are the general problem solving skills. Learning programming teaches you how to solve problems generally. How? 
+The most import skill I've picked up as a someone in the game ( of professional programming) is the problem . Learning programming teaches you how to solve problems generally. How?
 
 A tale from the past: Prior to me picking up my computer science degree in my last year of my commerce/actuarial degree, most "work" came in the form of solving equations or systhesising arguments. There was no way to know whether you got the right answer until you received feedback from a tutor or lecturer. With computing it's different, you know the problem and you can (mostly) see whether your solution fixes it. This tight feedback loop couple with the great resource that is the internet gives rise to the emergant behaviour that is useful to solve __any__ problem. I'm going to have a crack at breaking down this emergent behaviour.
 
@@ -21,21 +23,21 @@ A tale from the past: Prior to me picking up my computer science degree in my la
 │                        │
 │                        │
 └────────────┬───────────┘
-             │            
+             │
 ┌────────────▼───────────┐
 │                        │
 │         Search         │
 │                        │
 │                        │
 └────────────┬───────────┘
-             │            
+             │
 ┌────────────▼───────────┐
 │                        │
 │       Understand       │
 │                        │
 │                        │
 └────────────┬───────────┘
-             │            
+             │
 ┌────────────▼───────────┐
 │                        │
 │         Tweak          │
@@ -55,3 +57,4 @@ This is roughly the process most programmers end up imbue in their workflow know
 
 QSUT (yep really needs a better name) this essentially what the course aims to teach them. The vehicle for learning these meta skills will be learning Python, some machine learning and data analysis.
 
+![alt text](../images/it-gets-easier.jpeg)

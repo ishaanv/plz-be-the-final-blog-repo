@@ -13,7 +13,7 @@ This year (2018) I'll be teaching [CODE1161](https://notionparallax.co.uk/CODE11
 
 The most import skill I've picked up as a someone in the game ( of professional programming) is the problem . Learning programming teaches you how to solve problems generally. How?
 
-A tale from the past: Prior to me picking up my computer science degree in my last year of my commerce/actuarial degree, most "work" came in the form of solving equations or systhesising arguments. There was no way to know whether you got the right answer until you received feedback from a tutor or lecturer. With computing it's different, you know the problem and you can (mostly) see whether your solution fixes it. This tight feedback loop couple with the great resource that is the internet gives rise to the emergant behaviour that is useful to solve __any__ problem. I'm going to have a crack at breaking down this emergent behaviour.
+A tale from the past: Prior to my picking up computer science in the last year of my commerce/actuarial degree, most homework came in the form of solving equations or synthesising arguments. There was no way to know whether you got the right answer until you received feedback from a tutor or lecturer. With computing it's different, you know the problem and you can (mostly) see whether your solution fixes it. This tight feedback loop couple with the great resource that is the internet gives rise to the emergant behaviour that is useful to solve __any__ problem. I'm going to have a crack at breaking down this emergent behaviour.
 
 ### Four steps to success or QSUT (needs a better name)
 ```

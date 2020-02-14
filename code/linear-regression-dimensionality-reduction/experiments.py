@@ -12,8 +12,6 @@ X, y = make_regression(n_samples=100, n_features=1, noise=5)
 # plot regression dataset
 
 #%%
-
-#%%
 round(min(X)[0])
 #%%
 vecs = np.array(list(zip(map(lambda x: x[0], X), y)))
@@ -57,6 +55,6 @@ regr = linear_model.LinearRegression()
 regr.fit(X, y)
 
 #%%
-plt.plot(x, m * x + c, 'r', label='Fitted line')
+plt.plot(x, m * x + c, label='Fitted line', color='white')
 plt.plot(X, regr.predict(X), color='orange')
 plt.scatter(X, y)
